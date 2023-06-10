@@ -1,0 +1,21 @@
+{
+  "name": "live-in-the-dark",
+  "displayName": "Live in the Dark",
+  "description": "A Dark VS Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Live in the Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Live in the Dark-color-theme.json"
+      }
+    ]
+  }
+}
