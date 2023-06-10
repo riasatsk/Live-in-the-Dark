@@ -1,13 +1,45 @@
 {
   "name": "live-in-the-dark",
   "displayName": "Live in the Dark",
-  "description": "A Dark VS Code Theme",
+  "description": "Best Dark Theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
   },
+  "publisher": "RiasatSk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riasatsk/Live-in-the-Dark"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Live in the Dark",
+    "theme",
+    "Riasat",
+    "Riasat Sk",
+    "dark color scheme",
+    "elegant",
+    "sleek",
+    "readability",
+    "aesthetics",
+    "minimalistic design",
+    "customizable",
+    "black",
+    "rich black",
+    "immersive",
+    "simplicity",
+    "contrast",
+    "customization",
+    "HTML",
+    "CSS",
+    "website",
+    "application",
+    "examples",
+    "GitHub",
+    "contributing",
+    "license"
   ],
   "contributes": {
     "themes": [

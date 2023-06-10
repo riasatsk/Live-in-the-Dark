@@ -1,16 +1,18 @@
-# live-in-the-dark README
+# Live in the Dark
 
-## Working with Markdown
+Live in the Dark is a sleek and elegant theme designed with a dark color scheme that emphasizes readability and aesthetics. The main color of this theme is `#000000`, which is a rich black shade that adds depth and sophistication to your user interface.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Dark color scheme: The theme's primary color, `#000000`, creates a visually appealing and immersive experience.
+- Minimalistic design: Dark Matter focuses on simplicity and elegance, reducing visual clutter and allowing your content to take center stage.
+- Readability: The carefully chosen color palette and contrast ratios ensure that text and other elements are easy to read and navigate.
+- Customizable: While the main color is `#000000`, you can easily customize other elements of the theme to suit your preferences.
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+To use the Live in the Dark theme, follow these steps:
 
-**Enjoy!**
+1. Download the theme files from [GitHub](https://github.com/riasatsk/Live-in-the-Dark).
+2. Copy the theme folder to your project's directory.
+3. Include the CSS file in your HTML:
