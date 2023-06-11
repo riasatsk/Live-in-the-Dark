@@ -9,10 +9,5 @@ Live in the Dark is a sleek and elegant theme designed with a dark color scheme 
 - Readability: The carefully chosen color palette and contrast ratios ensure that text and other elements are easy to read and navigate.
 - Customizable: While the main color is `#000000`, you can easily customize other elements of the theme to suit your preferences.
 
-## Installation
-
-To use the Live in the Dark theme, follow these steps:
-
-1. Download the theme files from [GitHub](https://github.com/riasatsk/Live-in-the-Dark).
-2. Copy the theme folder to your project's directory.
-3. Include the CSS file in your HTML:
+## Screenshot
+<img src="image/screenshot1.png" alt="Alt Text" style="width:1080px;height:720px;">
