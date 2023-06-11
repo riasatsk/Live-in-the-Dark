@@ -3,7 +3,7 @@
   "displayName": "Live in the Dark",
   "description": "Best Dark Theme",
   "icon": "image/live-in-the-dark.png",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.79.0"
   },
