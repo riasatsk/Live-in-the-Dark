@@ -10,4 +10,5 @@ Live in the Dark is a sleek and elegant theme designed with a dark color scheme 
 - Customizable: While the main color is `#000000`, you can easily customize other elements of the theme to suit your preferences.
 
 ## Screenshot
-<img src="image/screenshot1.png" alt="Alt Text" >
+<img src="image/screenshot1.png" alt="Screenshot 1" >
+<img src="image/screenshot2.png" alt="Screenshot 2" >
