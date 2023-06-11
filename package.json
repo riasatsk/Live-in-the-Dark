@@ -4,13 +4,14 @@
   "description": "Best Dark Theme",
    "icon": "image/live-in-the-dark.png",
   "version": "0.0.1",
-  
+  "engines": {
+    "vscode": "^1.79.0"
+  },
   "publisher": "RiasatSk",
 
   "categories": [
     "Themes"
   ],
-
   "keywords": [
     "Live in the Dark",
     "theme",
