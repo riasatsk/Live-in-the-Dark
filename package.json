@@ -8,7 +8,10 @@
     "vscode": "^1.79.0"
   },
   "publisher": "RiasatSk",
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riasatsk/Live-in-the-Dark"
+  },
   "categories": [
     "Themes"
   ],
