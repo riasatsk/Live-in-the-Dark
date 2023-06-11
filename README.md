@@ -15,14 +15,10 @@ Live in the Dark is a sleek and elegant theme designed with a dark color scheme 
 
 ---
 
-About Riasat Sk
+About Me
 
-My name is Riasat Sk. I am a passionate developer and technology enthusiast. You can find me on GitHub as [@riasatsk](https://github.com/riasatsk). 
+My name is Riasat Sk. I am a passionate developer and technology enthusiast. You can find me on GitHub as [@riasatsk](https://github.com/riasatsk).
 
-<img src="https://avatars.githubusercontent.com/u/67420883?v=4" alt="Riasat Sk" style="width:512px; height:512px;" >
-
-
-![Riasat Sk]()
+![Riasat Sk](https://avatars.githubusercontent.com/u/67420883?v=4){: width="512" height="512"}
 
 Feel free to connect with me and explore my projects on GitHub.
-
