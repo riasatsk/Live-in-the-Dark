@@ -5,7 +5,7 @@ Live in the Dark is a sleek and elegant theme designed with a dark color scheme 
 ## Features
 
 - Dark color scheme: The theme's primary color, `#000000`, creates a visually appealing and immersive experience.
-- Minimalistic design: Dark Matter focuses on simplicity and elegance, reducing visual clutter and allowing your content to take center stage.
+- Minimalistic design: Live in the Dark focuses on simplicity and elegance, reducing visual clutter and allowing your content to take center stage.
 - Readability: The carefully chosen color palette and contrast ratios ensure that text and other elements are easy to read and navigate.
 - Customizable: While the main color is `#000000`, you can easily customize other elements of the theme to suit your preferences.
 
