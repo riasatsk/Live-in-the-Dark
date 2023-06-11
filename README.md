@@ -11,4 +11,4 @@ Live in the Dark is a sleek and elegant theme designed with a dark color scheme 
 
 ## Screenshot
 <img src="image/screenshot1.png" alt="Screenshot 1" >
-<img src="image/screenshot2.png" alt="Screenshot 2" >
+<img src="image/Screenshot2.png" alt="Screenshot 2" >
